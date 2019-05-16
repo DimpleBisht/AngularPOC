@@ -1,2 +1,0 @@
-# AngularPOC
-Created with CodeSandbox
